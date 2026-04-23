@@ -60,4 +60,5 @@ public class Persistencia
         InicializarSucursales();
         InicializarVehiculos();
     }
+
 }
